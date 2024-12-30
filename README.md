@@ -1,7 +1,7 @@
 # sliding_tiles
 
 Fun with sliding-tile puzzles. These are the kind with differently-sized
-pieces, such as Quzzle and John Conway's Century, not the kind with
+rectangular pieces, such as Quzzle and John Conway's Century, not the kind with
 unit-sized pieces like the 15 puzzle or the many variations with images.
 
 There's a simple web widget in `web`, and I'm working on a solver which
